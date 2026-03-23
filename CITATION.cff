@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this research, climate data, or processing code, please cite the authors as follows."
+authors:
+  - family-names: "Ghebretnsae"
+    given-names: "Tesfalem W."
+    affiliation: "RUDN University / Hamelmalo Agricultural College"
+  - family-names: "Mohamed"
+    given-names: "Elsayed S."
+    affiliation: "RUDN University / NARSS Egypt"
+  - family-names: "Umar"
+    given-names: "Joseph James"
+    affiliation: "Nasarawa State Hydrocarbon and Solid Mineral Development Agency"
+title: "Evaluating NEX-GDDP-CMIP6 rainfall projections in Eritrea’s agricultural heartlands: Multi-Model Ensemble Framework"
+version: 1.0.0
+date-released: 2026-03-23
+url: "https://github.com/YOUR_USERNAME/NEX-GDDP-CMIP6-Rainfall-Eritrea"
+keywords:
+  - "CMIP6"
+  - "Eritrea"
+  - "SPI"
+  - "Climate Projections"
+  - "CRI Methodology"
